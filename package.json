@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jimp": "^1.6.1",
+    "selfsigned": "^5.5.0",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
